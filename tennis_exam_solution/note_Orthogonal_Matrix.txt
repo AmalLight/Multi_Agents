@@ -1,0 +1,6 @@
+
+Orthogonal Matrix => regularization => it is not necessary but it can be helpful ( performance )
+                                       sometimes the regularization it is necessary for some demos,
+                                       where we need to reproduce exactly the same execution ( without seed ).
+
+advantages, future_rewards => normalization  => it is required to proceed with the statistics
